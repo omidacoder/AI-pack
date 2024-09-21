@@ -8,6 +8,7 @@ The repository contains 4 main folders which are study fields in AI each comes w
 - Computer Vision
 
 - Evolutionary Algorithms
+<br/>
 These exercises are related to my university and have been done in 2021-2022.
 
 ## Details
